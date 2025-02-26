@@ -17,3 +17,4 @@ This course provides an overview and foundational knowledge of embedded systems 
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com
+- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/
